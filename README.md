@@ -2,7 +2,7 @@ Kirill Afonin
 
 PhD student @ Aix-Marseille University, working full time at IRFM, CEA, Cadarache, France.
 
-This github account is for CEA related activities.
+This github account is for CEA-related activities.
 
 
 
